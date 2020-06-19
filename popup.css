@@ -1,0 +1,21 @@
+#button {
+ 	outline:none;
+	border:none;
+	padding:15px;
+	margin:auto;
+	cursor:pointer;
+	font-size:15px;
+	background-color:ghostwhite;
+	border:2px solid #fff;
+    border-radius: 5px;
+    box-shadow: 0 8px 6px -6px black;
+    transition: 0.4s;
+}
+
+#button:hover{
+    box-shadow: 0 5px 6px -6px black;
+}
+
+body {
+    background-color: ghostwhite;
+}
