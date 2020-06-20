@@ -1,7 +1,7 @@
   {
     "name": "Damn Puzzle!",
     "version": "0.1",
-    "description": "See the puzzle user rating before wasting time on it!",
+    "description": "See the lichess.org tactics puzzle user rating before wasting time on it!",
     "manifest_version": 2,
     "background": {
       "scripts": ["background.js"],
