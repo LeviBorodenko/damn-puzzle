@@ -1,6 +1,7 @@
 ## Damn Puzzle! [(get it here)]()
-![Damn Puzzle](damn_puzzle.gif)
 _See the Lichess.org user vote of a tactics puzzle before wasting time on it._
+![Damn Puzzle](damn_puzzle.gif)
+
 
 <hr>
 
