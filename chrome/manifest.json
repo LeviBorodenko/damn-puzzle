@@ -13,7 +13,7 @@
       "48": "images/icon48.png",
       "128": "images/icon128.png"
     },
-    "permissions": ["activeTab", "declarativeContent", "tabs"],
+    "permissions": ["activeTab", "declarativeContent"],
     "page_action": {
       "default_popup": "popup.html",
       "default_icon": {
