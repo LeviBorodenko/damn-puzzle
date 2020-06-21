@@ -1,4 +1,4 @@
-## Damn Puzzle! [(get it here)]()
+## Damn Puzzle! [(Get it here)](https://chrome.google.com/webstore/detail/damn-puzzle/llhccmgdbihmgbkkikifgfjkahkbkiia)
 _See the Lichess.org user vote of a tactics puzzle before wasting time on it._
 ![Damn Puzzle](damn_puzzle.gif)
 
