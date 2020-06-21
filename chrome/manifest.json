@@ -1,6 +1,6 @@
   {
     "name": "Damn Puzzle!",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "See the lichess.org tactics puzzle user rating before wasting time on it!",
     "manifest_version": 2,
     "background": {
